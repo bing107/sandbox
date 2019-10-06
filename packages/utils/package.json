@@ -1,0 +1,7 @@
+{
+  "name": "@bing107/utils",
+  "version": "1.0.1",
+  "description": "testing a util module",
+  "main": "index.js",
+  "license": "MIT"
+}
