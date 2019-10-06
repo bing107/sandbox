@@ -1,6 +1,6 @@
 {
   "name": "@bing107/utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "testing a util module",
   "main": "index.js",
   "private": false,
