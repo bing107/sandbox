@@ -3,5 +3,6 @@
   "version": "1.0.1",
   "description": "testing a util module",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "7d169283f9ab88498962cd5a34c7e231aff55edd"
 }
